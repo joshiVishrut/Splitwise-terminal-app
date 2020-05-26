@@ -16,7 +16,6 @@ public class Database {
         peopleDBSize = 0;
         groupsDB = new HashMap<>();
         hisabDB = new HashMap<>();
-        //groupDBSize = 0;
     }
 
     public void addPerson (String name) {
